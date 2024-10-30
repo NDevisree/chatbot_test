@@ -1,0 +1,9 @@
+flask
+transformers
+torch
+pdf2image
+openai
+pinecone-client
+faiss-cpu
+numpy
+pytest
